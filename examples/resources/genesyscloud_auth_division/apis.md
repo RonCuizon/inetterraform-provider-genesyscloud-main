@@ -1,0 +1,6 @@
+* [GET /api/v2/authorization/divisions/home](https://developer.mypurecloud.com/api/rest/v2/authorization/#get-api-v2-authorization-divisions-home)
+* [POST /api/v2/authorization/divisions](https://developer.mypurecloud.com/api/rest/v2/authorization/#post-api-v2-authorization-divisions)
+* [GET /api/v2/authorization/divisions/{divisionId}](https://developer.mypurecloud.com/api/rest/v2/authorization/#get-api-v2-authorization-divisions--divisionId-)
+* [GET /api/v2/authorization/divisions](https://developer.mypurecloud.com/api/rest/v2/authorization/#get-api-v2-authorization-divisions)
+* [PUT /api/v2/authorization/divisions/{divisionId}](https://developer.mypurecloud.com/api/rest/v2/authorization/#put-api-v2-authorization-divisions--divisionId-)
+* [DELETE /api/v2/authorization/divisions/{divisionId}](https://developer.mypurecloud.com/api/rest/v2/authorization/#delete-api-v2-authorization-divisions--divisionId-)

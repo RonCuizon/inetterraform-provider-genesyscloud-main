@@ -1,0 +1,5 @@
+* [GET /api/v2/webdeployments/deployments](https://developer.dev-genesys.cloud/api/rest/v2/webdeployments/#get-api-v2-webdeployments-deployments)
+* [POST /api/v2/webdeployments/deployments](https://developer.dev-genesys.cloud/api/rest/v2/webdeployments/#post-api-v2-webdeployments-deployments)
+* [DELETE /api/v2/webdeployments/deployments/{deploymentId}](https://developer.dev-genesys.cloud/api/rest/v2/webdeployments/#delete-api-v2-webdeployments-deployments--deploymentId-)
+* [GET /api/v2/webdeployments/deployments/{deploymentId}](https://developer.dev-genesys.cloud/api/rest/v2/webdeployments/#get-api-v2-webdeployments-deployments--deploymentId-)
+* [PUT /api/v2/webdeployments/deployments/{deploymentId}](https://developer.dev-genesys.cloud/api/rest/v2/webdeployments/#put-api-v2-webdeployments-deployments--deploymentId-)
