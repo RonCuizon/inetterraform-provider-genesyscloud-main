@@ -11,7 +11,7 @@ require (
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.29.0
 	github.com/leekchan/timeutil v0.0.0-20150802142658-28917288c48d
 	github.com/mypurecloud/platform-client-sdk-go/v105 v105.0.0
-	github.com/nyaruka/phonenumbers v1.1.8
+	github.com/nyaruka/phonenumbers v1.3.0
 	github.com/zclconf/go-cty v1.14.0
 	gonum.org/v1/gonum v0.14.0
 )
@@ -24,7 +24,7 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/vmihailenco/msgpack/v5 v5.3.5 // indirect
 	github.com/vmihailenco/tagparser/v2 v2.0.0 // indirect
-	golang.org/x/exp v0.0.0-20230626212559-97b1e661b5df // indirect
+	golang.org/x/exp v0.0.0-20231214170342-aacd6d4b4611 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230525234030-28d5490b6b19 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
@@ -85,10 +85,10 @@ require (
 	github.com/tidwall/pretty v1.2.0 // indirect
 	github.com/vmihailenco/msgpack v4.0.4+incompatible // indirect
 	golang.org/x/crypto v0.13.0 // indirect
-	golang.org/x/mod v0.12.0 // indirect
+	golang.org/x/mod v0.14.0 // indirect
 	golang.org/x/net v0.13.0 // indirect
 	golang.org/x/sys v0.12.0 // indirect
-	golang.org/x/text v0.13.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/grpc v1.57.0 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
